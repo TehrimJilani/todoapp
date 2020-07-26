@@ -1,0 +1,57 @@
+body{
+    
+    background-image: url(image/to-do-list-white-paper-pencils-background-template-56711188.jpg);
+    background-size: 1350px;
+}
+#container{
+
+    margin-top: 200px;
+    margin-left: 150px;
+}
+#work{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: lightsteelblue;
+    font-size: 20px;
+}
+.btn{
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+.mbtn{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px grey;
+    font-size: 20px;
+}
+.mbtn1{
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    color:white;
+    box-shadow: 5px 5px 5px 5px grey;
+    font-size: 20px;
+}
+.input{
+    font-size: 30px;
+    margin-left: 150px;
+    
+}
+.btn1{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px grey;
+    font-size: 20px;
+    width: 100px;
+}
